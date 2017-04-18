@@ -1,0 +1,1 @@
+# ssid-to-slack-status-token-generator
